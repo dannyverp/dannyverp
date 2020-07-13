@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Danny, a 💻 software engineer currently working at Takeaway.com 🍲🥡
+I'm Danny, a 💻  software engineer currently working at [Takeaway.com](https://takeaway.com) 🍲🥡
 
 💼 https://linkedin.com/in/dannyverpoort
 
