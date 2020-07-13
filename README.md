@@ -2,10 +2,10 @@
 
 I'm Danny, a 💻  software engineer currently working at [Takeaway.com](https://takeaway.com) 🍲🥡
 
-💼 https://linkedin.com/in/dannyverpoort
+💼 [LinkedIn](https://linkedin.com/in/dannyverpoort)
 
-🐦 https://twitter.com/dannyverp
+🐦 [Twitter](https://twitter.com/dannyverp)
 
-🌍 https://dannyverpoort.dev
+🌍 [Website](https://dannyverpoort.dev)
 
-📬 hallo@dannyverpoort.nl
+📬 [Email](mailto:hallo@dannyverpoort.nl)
