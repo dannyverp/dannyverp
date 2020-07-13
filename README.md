@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Danny, a 💻  software engineer currently working at [Takeaway.com](https://takeaway.com) 🍲🥡
+I'm Danny, a software engineer 💻 currently working at [Takeaway.com](https://takeaway.com) 🍲🥡
 
-[💼 LinkedIn](https://linkedin.com/in/dannyverpoort)
+[LinkedIn 💼](https://linkedin.com/in/dannyverpoort)
 
-[🐦 Twitter](https://twitter.com/dannyverp)
+[Twitter 🐦](https://twitter.com/dannyverp)
 
-[🌍 Website](https://dannyverpoort.dev)
+[Website 🌍](https://dannyverpoort.dev)
 
-[📬 Email](mailto:hallo@dannyverpoort.nl)
+[Email 📬](mailto:hallo@dannyverpoort.nl)
